@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SanityTest">
+  <parameter name="browserType" value="firefox"/>	
+  
+  	  <groups>
+	      <run>
+	        <include name="sanity" />
+	  		<exclude name="regression" />
+	      </run>
+	   </groups>
+  
+  <test name="Test">
+    <classes>
+      <class name="testCase.TC01_SubmitServiceRequest_Repairservices"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- SanityTest -->

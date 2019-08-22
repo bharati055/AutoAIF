@@ -1,0 +1,121 @@
+2016-08-27 14:55:11,757 INFO  [Log] Creating Runtime parameter XML 
+2016-08-27 14:55:12,005 INFO  [Log] Writing Runtime parameter XML. Node name-browser. Node value - firefox 
+2016-08-27 14:55:12,029 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for - firefox 
+2016-08-27 14:55:12,029 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for. Firefox driver found in factory 
+2016-08-27 14:55:12,030 INFO  [Log] Function Execution: ElementFactory>>getRepository 
+2016-08-27 14:55:12,030 INFO  [Log] Function Execution: ElementFactory>>getRepository>> Repository is catched. 
+2016-08-27 14:55:12,030 INFO  [Log] Function execution: CommonFunctions >> getCurrentTestName 
+2016-08-27 14:55:12,030 INFO  [Log] **************************************************************************************** 
+2016-08-27 14:55:12,030 INFO  [Log] **************************************************************************************** 
+2016-08-27 14:55:12,030 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 java.lang.Object       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-08-27 14:55:12,030 INFO  [Log] **************************************************************************************** 
+2016-08-27 14:55:12,030 INFO  [Log] **************************************************************************************** 
+2016-08-27 14:55:12,041 INFO  [Log] Reading environment data file for param - AppURL 
+2016-08-27 14:55:12,081 INFO  [Log] Reading environment data file for param - AppURL. Value - http://automationtoolhelp.com/athomeservices/ 
+2016-08-27 14:55:27,311 INFO  [Log] Element Page Object >> username 
+2016-08-27 14:55:27,311 INFO  [Log] Function Execution: ElementFactory>>getElement 
+2016-08-27 14:55:27,312 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for - firefox 
+2016-08-27 14:55:27,312 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for. Firefox driver found in factory 
+2016-08-27 14:55:27,312 INFO  [Log] Function Execution: ElementFactory>>getRepository 
+2016-08-27 14:55:27,365 INFO  [Log] Reading environment data file for param - LoginID 
+2016-08-27 14:55:27,389 INFO  [Log] Reading environment data file for param - LoginID. Value - admin 
+2016-08-27 14:55:27,408 INFO  [Log] UIOperation>> SetText. Element Name -  
+2016-08-27 14:55:27,423 INFO  [Log] UIOperation>> Element Exist. Element Name -  
+2016-08-27 14:55:27,504 INFO  [Log] Element Page Object >> password 
+2016-08-27 14:55:27,504 INFO  [Log] Function Execution: ElementFactory>>getElement 
+2016-08-27 14:55:27,505 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for - firefox 
+2016-08-27 14:55:27,506 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for. Firefox driver found in factory 
+2016-08-27 14:55:27,506 INFO  [Log] Function Execution: ElementFactory>>getRepository 
+2016-08-27 14:55:27,520 INFO  [Log] Reading environment data file for param - Password 
+2016-08-27 14:55:27,540 INFO  [Log] Reading environment data file for param - Password. Value - admin 
+2016-08-27 14:55:27,636 INFO  [Log] UIOperation>> SetText. Element Name -  
+2016-08-27 14:55:27,655 INFO  [Log] UIOperation>> Element Exist. Element Name -  
+2016-08-27 14:55:27,727 INFO  [Log] Element Page Object >> loginbutton 
+2016-08-27 14:55:27,728 INFO  [Log] Function Execution: ElementFactory>>getElement 
+2016-08-27 14:55:27,730 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for - firefox 
+2016-08-27 14:55:27,730 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for. Firefox driver found in factory 
+2016-08-27 14:55:27,730 INFO  [Log] Function Execution: ElementFactory>>getRepository 
+2016-08-27 14:55:27,780 INFO  [Log] UIOperation>> ClickElement. Element Name -  
+2016-08-27 14:55:27,796 INFO  [Log] UIOperation>> Element Exist. Element Name -  
+2016-08-27 14:55:27,909 INFO  [Log] Element Page Object >> repairService 
+2016-08-27 14:55:27,909 INFO  [Log] Function Execution: ElementFactory>>getElement 
+2016-08-27 14:55:27,912 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for - firefox 
+2016-08-27 14:55:27,912 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for. Firefox driver found in factory 
+2016-08-27 14:55:27,912 INFO  [Log] Function Execution: ElementFactory>>getRepository 
+2016-08-27 14:55:40,550 INFO  [Log] UIOperation>> Element Exist. Element Name - REPAIR ELECTRONIC ITEMS 
+2016-08-27 14:55:40,576 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for - firefox 
+2016-08-27 14:55:40,576 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for. Firefox driver found in factory 
+2016-08-27 14:55:40,576 INFO  [Log] Function Execution - Reporting>>reportStep 
+2016-08-27 14:55:40,576 INFO  [Log] Step PASSED. StepDesc - Login to the application.. StepExpected - Loged in successfully.. StepAtual - operation passed 
+2016-08-27 14:55:40,576 INFO  [Log] Element Page Object >> repairService 
+2016-08-27 14:55:40,576 INFO  [Log] Function Execution: ElementFactory>>getElement 
+2016-08-27 14:55:40,577 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for - firefox 
+2016-08-27 14:55:40,577 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for. Firefox driver found in factory 
+2016-08-27 14:55:40,577 INFO  [Log] Function Execution: ElementFactory>>getRepository 
+2016-08-27 14:55:40,603 INFO  [Log] UIOperation>> ClickElement. Element Name - REPAIR ELECTRONIC ITEMS 
+2016-08-27 14:55:40,615 INFO  [Log] UIOperation>> Element Exist. Element Name - REPAIR ELECTRONIC ITEMS 
+2016-08-27 14:55:50,283 INFO  [Log] Element Page Object >> name 
+2016-08-27 14:55:50,283 INFO  [Log] Function Execution: ElementFactory>>getElement 
+2016-08-27 14:55:50,284 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for - firefox 
+2016-08-27 14:55:50,284 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for. Firefox driver found in factory 
+2016-08-27 14:55:50,285 INFO  [Log] Function Execution: ElementFactory>>getRepository 
+2016-08-27 14:55:50,313 INFO  [Log] UIOperation>> Element Exist. Element Name -  
+2016-08-27 14:55:50,336 INFO  [Log] Function Execution - Reporting>>reportStep 
+2016-08-27 14:55:50,336 INFO  [Log] Step PASSED. StepDesc - click RepairService button.. StepExpected - Clicked successfully.. StepAtual - operation passed 
+2016-08-27 14:55:50,337 INFO  [Log] Element Page Object >> name 
+2016-08-27 14:55:50,337 INFO  [Log] Function Execution: ElementFactory>>getElement 
+2016-08-27 14:55:50,338 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for - firefox 
+2016-08-27 14:55:50,338 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for. Firefox driver found in factory 
+2016-08-27 14:55:50,338 INFO  [Log] Function Execution: ElementFactory>>getRepository 
+2016-08-27 14:55:50,361 INFO  [Log] UIOperation>> SetText. Element Name -  
+2016-08-27 14:55:50,373 INFO  [Log] UIOperation>> Element Exist. Element Name -  
+2016-08-27 14:55:50,431 INFO  [Log] Element Page Object >> email 
+2016-08-27 14:55:50,431 INFO  [Log] Function Execution: ElementFactory>>getElement 
+2016-08-27 14:55:50,432 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for - firefox 
+2016-08-27 14:55:50,432 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for. Firefox driver found in factory 
+2016-08-27 14:55:50,432 INFO  [Log] Function Execution: ElementFactory>>getRepository 
+2016-08-27 14:55:50,464 INFO  [Log] UIOperation>> SetText. Element Name -  
+2016-08-27 14:55:50,504 INFO  [Log] UIOperation>> Element Exist. Element Name -  
+2016-08-27 14:55:50,590 INFO  [Log] Element Page Object >> contact 
+2016-08-27 14:55:50,590 INFO  [Log] Function Execution: ElementFactory>>getElement 
+2016-08-27 14:55:50,592 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for - firefox 
+2016-08-27 14:55:50,592 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for. Firefox driver found in factory 
+2016-08-27 14:55:50,592 INFO  [Log] Function Execution: ElementFactory>>getRepository 
+2016-08-27 14:55:50,622 INFO  [Log] UIOperation>> SetText. Element Name -  
+2016-08-27 14:55:50,635 INFO  [Log] UIOperation>> Element Exist. Element Name -  
+2016-08-27 14:55:50,700 INFO  [Log] Element Page Object >> address 
+2016-08-27 14:55:50,700 INFO  [Log] Function Execution: ElementFactory>>getElement 
+2016-08-27 14:55:50,701 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for - firefox 
+2016-08-27 14:55:50,701 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for. Firefox driver found in factory 
+2016-08-27 14:55:50,702 INFO  [Log] Function Execution: ElementFactory>>getRepository 
+2016-08-27 14:55:50,732 INFO  [Log] UIOperation>> SetText. Element Name -  
+2016-08-27 14:55:50,749 INFO  [Log] UIOperation>> Element Exist. Element Name -  
+2016-08-27 14:55:50,857 INFO  [Log] Element Page Object >> description 
+2016-08-27 14:55:50,857 INFO  [Log] Function Execution: ElementFactory>>getElement 
+2016-08-27 14:55:50,858 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for - firefox 
+2016-08-27 14:55:50,858 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for. Firefox driver found in factory 
+2016-08-27 14:55:50,858 INFO  [Log] Function Execution: ElementFactory>>getRepository 
+2016-08-27 14:55:50,879 INFO  [Log] UIOperation>> SetText. Element Name -  
+2016-08-27 14:55:50,894 INFO  [Log] UIOperation>> Element Exist. Element Name -  
+2016-08-27 14:55:50,983 INFO  [Log] Element Page Object >> submitbutton 
+2016-08-27 14:55:50,983 INFO  [Log] Function Execution: ElementFactory>>getElement 
+2016-08-27 14:55:50,985 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for - firefox 
+2016-08-27 14:55:50,985 INFO  [Log] Function Execution: BrowserFactory>>getBrowser for. Firefox driver found in factory 
+2016-08-27 14:55:50,985 INFO  [Log] Function Execution: ElementFactory>>getRepository 
+2016-08-27 14:55:51,013 INFO  [Log] UIOperation>> ClickElement. Element Name -  
+2016-08-27 14:55:51,028 INFO  [Log] UIOperation>> Element Exist. Element Name -  
+2016-08-27 14:55:51,268 INFO  [Log] Function Execution - Reporting>>reportStep 
+2016-08-27 14:55:51,269 INFO  [Log] Step PASSED. StepDesc - Submit service request form.. StepExpected - form submited successfully.. StepAtual - operation passed 
+2016-08-27 14:55:51,270 INFO  [Log] Function Execution - Reporting>>endCurrentTest 
+2016-08-27 14:55:51,270 INFO  [Log] Function Execution: BrowserFactory>>closeAllDriver 
+2016-08-27 14:55:51,453 INFO  [Log] Function Execution - Reporting>>endExecution 
+2016-08-27 14:55:51,453 INFO  [Log] Function Execution - Reporting>>generateHTML 
+2016-08-27 14:55:51,462 INFO  [Log] Reading environment data file for param - projectName 
+2016-08-27 14:55:51,479 INFO  [Log] Reading environment data file for param - projectName. Value - At Home Service - Automation 
+2016-08-27 14:55:51,479 INFO  [Log] Function Execution: SendEmail>>readPropertyFile 
+2016-08-27 14:55:51,507 INFO  [Log] Function Execution: SendEmail>>readPropertyFile 
+2016-08-27 14:55:51,508 INFO  [Log] Reading environment data file for param - projectName 
+2016-08-27 14:55:51,552 INFO  [Log] Reading environment data file for param - projectName. Value - At Home Service - Automation 
+2016-08-27 14:55:51,552 INFO  [Log] Reading environment data file for param - projectName 
+2016-08-27 14:55:51,573 INFO  [Log] Reading environment data file for param - projectName. Value - At Home Service - Automation 
+2016-08-27 14:55:55,171 INFO  [Log] Function Execution: BrowserFactory>>closeAllDriver 

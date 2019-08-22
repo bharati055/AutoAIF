@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+ <parameter name="browserType" value="firefox"/>
+  <test name="Test">
+    
+      <groups>
+	      <run>
+	        <exclude name="sanity" />
+	  		<include name="regression" />
+	      </run>
+	   </groups>
+    
+    <classes>
+	      <class name="testCase.TC01_ValidateManagementConsole_login"/>
+	      <class name="testCase.TC02_ValidateManagementConsole_login02"/>
+	      <class name="testCase.TC03_ValidateManagementConsole_login03"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
